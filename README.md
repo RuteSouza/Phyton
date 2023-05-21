@@ -1,4 +1,4 @@
-# Phyton Projects :joystick:	
+# Python Projects :joystick:	
 
 Hi there!
 
